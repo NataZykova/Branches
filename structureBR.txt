@@ -1,0 +1,19 @@
+
+id:
+summary:
+environment: 
+precondition:
+status:
+submitted by:
+assigned to:
+component:
+version found:
+version fixed:
+description:
+steps to reproduce:
+actual result:
+expected result:
+severity:
+priority:
+workaround:
+comments:
